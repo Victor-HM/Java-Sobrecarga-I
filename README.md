@@ -5,7 +5,7 @@ primeiro desafio proposto sobre sobrecarga.
 
 Criar uma sobrecarga no getSalario para que aparecesse um cifrão. <br>
 
-## Como Funciona?
+## Como Funciona? 💭
 
 Neste código eu usei a biblioteca JOptionPane, para a inserção e confirmação dos dados. <br>
 E fiz um laço de repetição para que todas as vezes o usuario responder "não" na confirmação dos dados inseridos <br>
